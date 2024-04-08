@@ -1,0 +1,61 @@
+COMPUTER SCIENCE
+
+1. What is the main input device of a computer?
+   option a) Monitor
+   option b) Keyboard
+   option c) Mouse
+   option d) Printer
+
+2. Which button do you press to start a computer?
+   option a) Enter
+   option b) Power
+   option c) Escape
+   option d) Shift
+
+3. What does the "www" in a website address stand for?
+   option a) World Wide Web
+   option b) Web Wide World
+   option c) World Web Wide
+   option d) Wide World Web
+
+4. How do you save a file on a computer?
+   option a) control  + C 
+   option b) control + v 
+   option c) control + S
+   option d) Delete
+
+5. What is a mouse used for?
+   option a) Drawing
+   option b) Browsing the internet
+   option c) Playing games
+   option d) Controlling the cursor
+
+6. How do you copy a file on a computer?
+   option a) control  + C 
+   option b) control + v 
+   option c) control + S
+   option d) Delete
+
+7. What does the "C" drive usually represent on a computer?
+   option a) CD drive
+   option b) USB drive
+   option c) Hard drive
+   option d) Network drive
+
+8. What is the function of a keyboard?
+   option a) Display images
+   option b) Input text and commands
+   option c) Control the cursor
+   option d) Play audio
+
+9. Which program do you use to browse the internet?
+   option a) Photoshop
+   option b) Excel
+   option c) Chrome
+   option d) Word
+
+10. What is the purpose of a computer monitor?
+    option a) Store data
+    option b) Print documents
+    option c) Display information
+    option d) Play videos
